@@ -1,40 +1,21 @@
+# Compiled class files
+*.class
+
 # gradle
-
-.gradle/
-build/
-out/
-classes/
-
-# eclipse
-
-*.launch
-
-# idea
-
-.idea/
-*.iml
-*.ipr
-*.iws
+/.gradle/
+/build/
 
 # vscode
-
-.settings/
-.vscode/
-bin/
-.classpath
-.project
-
-# macos
-
-*.DS_Store
+/.settings/
+/.vscode/
 
 # fabric
+/bin/
+/run/
 
-run/
+# Package Files
+*.jar
+*.zip
 
-# java
-
-hs_err_*.log
-replay_*.log
-*.hprof
-*.jfr
+# Misc Files
+*.directory
